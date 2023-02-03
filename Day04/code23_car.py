@@ -7,6 +7,9 @@ class Car:
     def get_number(self)  -> str: # 상속 함수
         return self.__number
 
+    def set_number(self, number):
+        self.__number = number
+
     # 클래스 외부에선 변경할 수 없고, 멤버 함수로는 내부를 조작할 수 있음
     def __init__(self, number= '54라 9538') -> None:
         self.__number = number
