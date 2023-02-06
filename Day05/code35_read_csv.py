@@ -8,7 +8,7 @@ fullpath = dirname + filename
 
 file = open(fullpath, 'r', encoding='utf-8')
 reader = csv.reader(file, delimiter=',')
-next(reader)
+next(reader) 
 
 for line in reader:
     print(line)
