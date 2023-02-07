@@ -1,0 +1,14 @@
+{
+	"ionic": {
+		"price": 20000000,
+		"year": "2022"
+	},
+	"genesis": {
+		"price": "9\ucc9c5\ubc31\ub9cc\uc6d0",
+		"year": "2021"
+	},
+	"bmw": {
+		"price": 150000000,
+		"year": "2019"
+	}
+}

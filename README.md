@@ -62,3 +62,12 @@ print("Hello, world!") # 콘솔출력 함수
 
  ![실행화면](https://raw.githubusercontent.com/bookchon/StudyPython2023/main/images/address_apk.png)
  실행화면
+
+# 7일차
+    - 주피터 노트북 사용법
+        - 노트북 생성 : 파일메뉴 > 새파일
+    - 리스트 연산 추가
+    - 자료 구조 추가
+    - 라이브러리 사용법
+    - 윈폼 개발(GUI)
+    - 응용 학습
