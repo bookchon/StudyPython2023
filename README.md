@@ -81,7 +81,9 @@ print("Hello, world!") # 콘솔출력 함수
         - 데이터 포털 Open API 크롤링
         - BeautifulSoup 크롤링
 
-![실행화면]()
+![실행화면](https://raw.githubusercontent.com/bookchon/StudyPython2023/main/images/jupyter_folium.PNG)
+
+Folium OpenAPI 연동화면 
 
 # 9일차
 1. 파이썬 응용
