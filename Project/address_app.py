@@ -38,7 +38,7 @@ class Contact: # 상속 받을 것이 없어 괄호 쓰지 않음
     
     def getPhoneNum(self) -> str:
         return self.__phone_num
-
+ 
     def getEmail(self):
         return self.__email
     
