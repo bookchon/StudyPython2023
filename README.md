@@ -91,4 +91,9 @@ Folium OpenAPI 연동화면
     - GUI 개발
         - Tkinter 소개
         - pyQt 소개, 설치
-    - 응용 학습
+        - 위젯
+
+# 10일차
+1. 파이썬 응용
+    - UI개발
+        - PyQt 위젯 계속
