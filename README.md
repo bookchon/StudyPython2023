@@ -38,19 +38,19 @@ print("Hello, world!") # 콘솔출력 함수
     - 구구단 프로그램
     - 함수
 
-# 4일차
+## 4일차
 1. 파이썬 기본
     - 가상환경
     - 객체지향 OOP
     - 패키지, 모듈
 
-# 5일차
+## 5일차
 1. 파이썬 기본
     - 패키지 계속
     - 입출력 다시
     - 예외 처리
 
-# 6일차
+## 6일차
 1. 파이썬 기본
     - 콘솔출력 보충
     - 객체지향 다시
@@ -63,7 +63,7 @@ print("Hello, world!") # 콘솔출력 함수
  ![실행화면](https://raw.githubusercontent.com/bookchon/StudyPython2023/main/images/address_apk.png)
  실행화면
 
-# 7일차
+## 7일차
 1. 파이썬 응용
     - 주피터 노트북 사용법
         - 노트북 생성 : 파일메뉴 > 새파일
@@ -72,7 +72,7 @@ print("Hello, world!") # 콘솔출력 함수
     - 라이브러리 사용법
         - folium (지도 라이브러리) 
 
-# 8일차
+## 8일차
 1. 파이썬 응용
     - 라이브러리 사용법
         - urllib.request
@@ -85,7 +85,7 @@ print("Hello, world!") # 콘솔출력 함수
 
 Folium OpenAPI 연동화면 
 
-# 9일차
+## 9일차
 1. 파이썬 응용
     - 자료구조 추가
     - GUI 개발
@@ -93,7 +93,7 @@ Folium OpenAPI 연동화면
         - pyQt 소개, 설치
         - 위젯
 
-# 10일차
+## 10일차
 1. 파이썬 응용
     - UI개발
         - PyQt 위젯 계속
